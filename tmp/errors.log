@@ -1,0 +1,85 @@
+[08-Jan-2014 06:23:36] 0::session.inc:372: include_once(./tmp/faillog.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory
+[08-Jan-2014 06:23:36] 0::session.inc:372: include_once() [<a href='function.include'>function.include</a>]: Failed opening './tmp/faillog.php' for inclusion (include_path='.;D:\xampp\php\PEAR')
+[08-Jan-2014 06:23:45] 0::session.inc:372: include_once(./tmp/faillog.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory
+[08-Jan-2014 06:23:45] 0::session.inc:372: include_once() [<a href='function.include'>function.include</a>]: Failed opening './tmp/faillog.php' for inclusion (include_path='.;D:\xampp\php\PEAR')
+[08-Jan-2014 10:11:05] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[08-Jan-2014 10:11:05] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[08-Jan-2014 10:11:05] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[08-Jan-2014 10:11:05] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[08-Jan-2014 10:11:05] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[08-Jan-2014 10:11:05] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[08-Jan-2014 10:11:05] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[08-Jan-2014 10:11:05] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[08-Jan-2014 10:11:05] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[08-Jan-2014 10:11:05] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[08-Jan-2014 10:11:05] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[08-Jan-2014 10:11:12] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[08-Jan-2014 10:11:12] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[08-Jan-2014 10:11:12] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[08-Jan-2014 10:11:12] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[08-Jan-2014 10:11:12] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[08-Jan-2014 10:11:12] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[08-Jan-2014 10:11:12] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[08-Jan-2014 10:11:12] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[08-Jan-2014 10:11:12] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[08-Jan-2014 10:11:12] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[08-Jan-2014 10:11:12] 0:admin:JsHttpRequest.php:470: mb_convert_encoding() [<a href='function.mb-convert-encoding'>function.mb-convert-encoding</a>]: Illegal character encoding specified
+[26-Jan-2014 09:27:25 UTC] 0:admin:ui_view.inc:267: Missing argument 2 for getDuration(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 73 and defined
+[26-Jan-2014 09:27:25 UTC] 0:admin:ui_view.inc:267: Missing argument 2 for getDuration(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 73 and defined
+[26-Jan-2014 09:27:25 UTC] 0:admin:ui_view.inc:267: Missing argument 2 for getDuration(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 73 and defined
+[26-Jan-2014 09:27:31 UTC] 0:admin:ui_view.inc:267: Missing argument 2 for getDuration(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 73 and defined
+[26-Jan-2014 09:27:31 UTC] 0:admin:ui_view.inc:267: Missing argument 2 for getDuration(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 73 and defined
+[26-Jan-2014 09:27:31 UTC] 0:admin:ui_view.inc:267: Missing argument 2 for getDuration(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 73 and defined
+[26-Jan-2014 09:40:20 UTC] 0:admin:ui_view.inc:269: Missing argument 2 for getDuration(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 73 and defined
+[26-Jan-2014 09:40:20 UTC] 0:admin:connect_db.inc:82: mysql_fetch_array() expects parameter 1 to be resource, null given
+[26-Jan-2014 09:40:25 UTC] 0:admin:ui_view.inc:269: Missing argument 2 for getDuration(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 73 and defined
+[26-Jan-2014 09:40:25 UTC] 0:admin:connect_db.inc:82: mysql_fetch_array() expects parameter 1 to be resource, null given
+[26-Jan-2014 09:41:03 UTC] 0:admin:ui_view.inc:269: Missing argument 2 for getDuration(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 73 and defined
+[26-Jan-2014 09:41:03 UTC] 0:admin:connect_db.inc:82: mysql_fetch_array() expects parameter 1 to be resource, string given
+[26-Jan-2014 09:42:42 UTC] 0:admin:ui_view.inc:267: Missing argument 2 for getDuration(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 73 and defined
+[26-Jan-2014 09:42:42 UTC] 0:admin:ui_view.inc:267: Missing argument 2 for getDuration(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 73 and defined
+[26-Jan-2014 09:42:42 UTC] 0:admin:ui_view.inc:267: Missing argument 2 for getDuration(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 73 and defined
+[27-Jan-2014 04:54:56 UTC] 0:admin:ui_view.inc:267: Missing argument 2 for getDuration(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 73 and defined
+[27-Jan-2014 04:54:56 UTC] 0:admin:ui_view.inc:267: Missing argument 2 for getDuration(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 73 and defined
+[27-Jan-2014 04:54:56 UTC] 0:admin:ui_view.inc:267: Missing argument 2 for getDuration(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 73 and defined
+[27-Jan-2014 04:57:38 UTC] 0:admin:ui_view.inc:267: Missing argument 2 for getDuration(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 74 and defined
+[27-Jan-2014 04:57:38 UTC] 0:admin:connect_db.inc:82: mysql_fetch_array() expects parameter 1 to be resource, string given
+[27-Jan-2014 04:58:11 UTC] 0:admin:ui_view.inc:267: Missing argument 2 for getDuration(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 74 and defined
+[27-Jan-2014 04:58:11 UTC] 0:admin:connect_db.inc:82: mysql_fetch_array() expects parameter 1 to be resource, string given
+[27-Jan-2014 04:58:47 UTC] 0:admin:ui_view.inc:267: Missing argument 2 for getDuration(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 74 and defined
+[27-Jan-2014 04:58:47 UTC] 0:admin:connect_db.inc:82: mysql_fetch_array() expects parameter 1 to be resource, string given
+[27-Jan-2014 06:06:50 UTC] 0:admin:ui_view.inc:267: Missing argument 2 for getDuration(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 73 and defined
+[27-Jan-2014 06:06:50 UTC] 0:admin:ui_view.inc:267: Missing argument 2 for getDuration(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 73 and defined
+[27-Jan-2014 06:06:50 UTC] 0:admin:ui_view.inc:267: Missing argument 2 for getDuration(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 73 and defined
+[27-Jan-2014 07:55:36 UTC] 0:admin:ui_view.inc:279: Missing argument 2 for getStatus(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 67 and defined
+[27-Jan-2014 07:55:36 UTC] 0:admin:ui_view.inc:279: Missing argument 2 for getStatus(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 67 and defined
+[27-Jan-2014 07:55:36 UTC] 0:admin:ui_view.inc:279: Missing argument 2 for getStatus(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 67 and defined
+[27-Jan-2014 07:58:22 UTC] 0:admin:ui_view.inc:279: Missing argument 2 for getStatus(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 67 and defined
+[27-Jan-2014 07:58:22 UTC] 0:admin:ui_view.inc:279: Missing argument 2 for getStatus(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 67 and defined
+[27-Jan-2014 07:58:22 UTC] 0:admin:ui_view.inc:279: Missing argument 2 for getStatus(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 67 and defined
+[27-Jan-2014 08:37:20 UTC] 0:admin:ui_view.inc:248: Invalid argument supplied for foreach()
+[27-Jan-2014 08:37:20 UTC] 0:admin:ui_view.inc:289: Missing argument 2 for getStatus(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 67 and defined
+[27-Jan-2014 08:37:20 UTC] 0:admin:ui_view.inc:290: Invalid argument supplied for foreach()
+[27-Jan-2014 08:37:20 UTC] 0:admin:ui_view.inc:248: Invalid argument supplied for foreach()
+[27-Jan-2014 08:37:20 UTC] 0:admin:ui_view.inc:289: Missing argument 2 for getStatus(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 67 and defined
+[27-Jan-2014 08:37:20 UTC] 0:admin:ui_view.inc:290: Invalid argument supplied for foreach()
+[27-Jan-2014 08:37:20 UTC] 0:admin:ui_view.inc:248: Invalid argument supplied for foreach()
+[27-Jan-2014 08:37:20 UTC] 0:admin:ui_view.inc:289: Missing argument 2 for getStatus(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 67 and defined
+[27-Jan-2014 08:37:20 UTC] 0:admin:ui_view.inc:290: Invalid argument supplied for foreach()
+[27-Jan-2014 08:38:16 UTC] 0:admin:ui_view.inc:248: Invalid argument supplied for foreach()
+[27-Jan-2014 08:38:16 UTC] 0:admin:ui_view.inc:289: Missing argument 2 for getStatus(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 67 and defined
+[27-Jan-2014 08:38:16 UTC] 0:admin:ui_view.inc:290: Invalid argument supplied for foreach()
+[27-Jan-2014 08:38:16 UTC] 0:admin:ui_view.inc:248: Invalid argument supplied for foreach()
+[27-Jan-2014 08:38:16 UTC] 0:admin:ui_view.inc:289: Missing argument 2 for getStatus(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 67 and defined
+[27-Jan-2014 08:38:16 UTC] 0:admin:ui_view.inc:290: Invalid argument supplied for foreach()
+[27-Jan-2014 08:38:16 UTC] 0:admin:ui_view.inc:248: Invalid argument supplied for foreach()
+[27-Jan-2014 08:38:16 UTC] 0:admin:ui_view.inc:289: Missing argument 2 for getStatus(), called in E:\xampp\htdocs\gsl_erp\attendence\attendence.php on line 67 and defined
+[27-Jan-2014 08:38:16 UTC] 0:admin:ui_view.inc:290: Invalid argument supplied for foreach()
+[27-Jan-2014 08:38:49 UTC] 0:admin:ui_view.inc:248: Invalid argument supplied for foreach()
+[27-Jan-2014 08:38:49 UTC] 0:admin:ui_view.inc:248: Invalid argument supplied for foreach()
+[27-Jan-2014 08:38:49 UTC] 0:admin:ui_view.inc:248: Invalid argument supplied for foreach()
+[28-Jan-2014 09:46:59 UTC] 0:admin:main.inc:60: fopen(../company/0/js_cache/../js/protoplasm/protoplasm.js): failed to open stream: No such file or directory
+[28-Jan-2014 09:47:08 UTC] 0:admin:main.inc:60: fopen(../company/0/js_cache/../js/protoplasm/protoplasm.js): failed to open stream: No such file or directory
+[28-Jan-2014 09:48:58 UTC] 0:admin:main.inc:60: fopen(../company/0/js_cache/../js/protoplasm/protoplasm.js): failed to open stream: No such file or directory
+[28-Jan-2014 09:50:31 UTC] 0:admin:main.inc:60: fopen(../company/0/js_cache/../js/protoplasm/protoplasm.js): failed to open stream: No such file or directory
+[28-Jan-2014 09:51:42 UTC] 0:admin:main.inc:60: fopen(../company/0/js_cache/../js/protoplasm/protoplasm.js): failed to open stream: No such file or directory
